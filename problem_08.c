@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Write a program to find the gread of student on the basis of marks provided by user
 int main(){
     int phymarks,mathmarks,engmarks,hinmarks,chemarks;
     printf("Enter the marks of physics,math,english,hindi,chemistry respecively\n");
