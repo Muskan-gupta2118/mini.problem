@@ -1,0 +1,30 @@
+//multiple constructor
+#include <iostream>
+using namespace std;
+
+class Grandparent {
+public:
+    Grandparent() {
+        cout << "Grandparent Constructor" << endl;
+    }
+};
+
+class Parent : public Grandparent {
+public:
+    Parent() {
+        cout << "Parent Constructor" << endl;
+    }
+};
+
+class Child : public Parent {
+public:
+    Child() {
+        cout << "Child Constructor" << endl;
+    }
+};
+
+int main() {
+    Child c1;
+
+    return 0;
+}
