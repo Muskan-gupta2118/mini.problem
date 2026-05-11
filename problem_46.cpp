@@ -23,11 +23,11 @@ public:
 };
 
 int main() {
-    C obj;
+    C muskan;
 
-    obj.showA();
-    obj.showB();
-    obj.showC();
+    muskan.showA();
+    muskan.showB();
+    muskan.showC();
 
     return 0;
 }
