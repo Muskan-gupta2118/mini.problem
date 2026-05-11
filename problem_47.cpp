@@ -28,6 +28,7 @@ int main() {
     c.fatherSkill();
     c.motherSkill();
     c.childSkill();
+    c.motherSkill();
 
     return 0;
 }
