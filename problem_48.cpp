@@ -12,12 +12,12 @@ public:
 class Student : public Person {
 };
 
-class Teacher : public Person {
+class faculty : public Person {
 };
 
 int main() {
     Student s;
-    Teacher t;
+    faculty t;
 
     s.display();
     t.display();
