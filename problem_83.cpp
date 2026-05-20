@@ -5,7 +5,7 @@ using namespace std;
 class Shape {
 public:
     virtual void draw() {
-        cout << "Drawing Shape" << endl;
+        cout << "Drawing  Shape" << endl;
     }
 };
 
