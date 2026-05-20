@@ -12,7 +12,7 @@ public:
 class Developer : public Employee {
 public:
     void work() override {
-        cout << "Writing Code" << endl;
+        cout << "Writing  Code" << endl;
     }
 };
 
