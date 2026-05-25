@@ -32,7 +32,7 @@ void exchange(Swap &s) {
 }
 
 int main() {
-    Swap s(10, 20);
+    Swap s(10, 40);
 
     exchange(s);
 
