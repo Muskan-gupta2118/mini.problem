@@ -22,7 +22,7 @@ private:
 
 public:
     B() {
-        numB = 20;
+        numB = 30;
     }
 
     friend void add(A, B);
