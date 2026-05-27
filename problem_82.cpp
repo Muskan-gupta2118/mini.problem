@@ -19,7 +19,7 @@ public:
 class Designer : public Employee {
 public:
     void work() override {
-        cout << "Designing UI" << endl;
+        cout << "Designing  UI" << endl;
     }
 };
 
