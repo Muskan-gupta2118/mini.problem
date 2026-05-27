@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 ofstream file;
 file.open("new.txt");
-file<<"this is a new file";
+file<<"editing file";
 file.close();
 return 0;
 }
