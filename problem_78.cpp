@@ -27,7 +27,7 @@ public:
 
 int main() {
     Laptop l1;
-    Laptop l2("Dell", 60000);
+    Laptop l2("Dell", 70000);
 
     l1.display();
     l2.display();
