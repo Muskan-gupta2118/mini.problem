@@ -19,7 +19,7 @@ public:
 int main() {
     Child c;
 
-    // c.show(); ❌ ERROR
+    // c.show();
 
     c.show(10);
 
