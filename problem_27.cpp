@@ -10,6 +10,6 @@ int main(){
         place=place*10;
         num=num/8;
     }
-    cout<<"decimal numbers to octal is "<<octal;
+    cout<<"decimal numbers to octal value  is "<<octal;
     return 0;
 }
