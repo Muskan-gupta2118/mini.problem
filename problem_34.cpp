@@ -13,7 +13,7 @@ class student{
         cin>>age;
     }
     void display(){
-        cout<<"the name of student is :"<<name<<endl;
+        cout<<"the name of student is "<<name<<endl;
         cout<<"the age is : "<<age;
     }
 };
