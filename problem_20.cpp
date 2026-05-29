@@ -7,8 +7,8 @@ int main(){
     int H= (num/100);
     int T=(num/10)%10;
     int U = (num%10);
-    cout<<H<<" hundred"<<endl;
-    cout<<T<<" tens"<<endl;
-    cout<<U<<" units"<<endl;
+    cout<<H<<" hundred place :"<<endl;
+    cout<<T<<" tens place :"<<endl;
+    cout<<U<<" units place :"<<endl;
     return 0;
 }
