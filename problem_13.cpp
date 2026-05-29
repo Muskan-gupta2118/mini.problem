@@ -31,7 +31,7 @@ int main(){
         cout<<"Grade C";
         break;
         case 'D':
-        cout<<"fail";
+        cout<<"fail...shame on you!";
         break;
         default:
         cout<<"you enter wrong number please try again";
