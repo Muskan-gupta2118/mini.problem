@@ -4,7 +4,7 @@ using namespace std;
     class parents{
         public:
         void house(){
-           cout<<"you can live in my house"<<endl;
+           cout<<"you can live in my house,for sure"<<endl;
         }
     };
     class son:public parents{
