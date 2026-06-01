@@ -27,7 +27,7 @@ public:
 
     void display() {
         cout << "Name: " << name << endl;
-        cout << "ID : " << id << endl;
+        cout << "ID: " << id << endl;
         cout << "Team Size: " << teamSize << endl;
     }
 };
