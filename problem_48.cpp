@@ -5,7 +5,7 @@ using namespace std;
 class Person {
 public:
     void display() {
-        cout << "I am a person" << endl;
+        cout << "I am a kindsoul person" << endl;
     }
 };
 
