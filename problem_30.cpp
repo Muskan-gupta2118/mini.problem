@@ -11,7 +11,7 @@ class student{
         age=s.age;
     }
     void display(){
-        cout<<"the age is"<<age<<endl;
+        cout<<"the age is "<<age<<endl;
     }
 };
 int main (){
