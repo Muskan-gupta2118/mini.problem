@@ -14,7 +14,7 @@ class student{
     }
     void display(){
         cout<<"the name of student is "<<name<<endl;
-        cout<<"the age is : "<<age;
+        cout<<"the age is  "<<age;
     }
 };
 int main(){
