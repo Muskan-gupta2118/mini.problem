@@ -19,7 +19,7 @@ public:
     }
 
     void display() {
-        cout << "Balance: "
+        cout << "Balance : "
              << balance << endl;
     }
 };
