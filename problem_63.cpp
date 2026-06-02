@@ -3,7 +3,7 @@ using namespace std;
 
 class Parent {
 public:
-    int x = 20;
+    int x = 30;
 };
 
 class Child : private Parent {
