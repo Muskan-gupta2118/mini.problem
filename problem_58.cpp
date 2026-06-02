@@ -26,7 +26,7 @@ public:
     }
 
     void totalSalary() {
-        cout << "Manager Name: " << name << endl;
+        cout << "Manager Name : " << name << endl;
         cout << "Total Salary: "
              << basicSalary + bonus << endl;
     }
