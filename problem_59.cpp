@@ -18,7 +18,7 @@ public:
     void displayResult() {
         int total = marks1 + marks2;
 
-        cout << "Total Marks: " << total << endl;
+        cout << "Total Marks : " << total << endl;
 
         if(total >= 80)
             cout << "Pass" << endl;
