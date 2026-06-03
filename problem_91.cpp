@@ -22,7 +22,7 @@ void exchange(Swap &s) {
     s.a = s.b;
     s.b = temp;
 
-    cout << "After Swapping:" << endl;
+    cout << "After Swapping :" << endl;
 
     cout << "a = "
          << s.a << endl;
