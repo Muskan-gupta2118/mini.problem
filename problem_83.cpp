@@ -12,7 +12,7 @@ public:
 class Circle : public Shape {
 public:
     void draw() override {
-        cout << "Drawing Circle" << endl;
+        cout << "Drawing Circle " << endl;
     }
 };
 
