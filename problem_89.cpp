@@ -9,7 +9,7 @@ private:
 public:
     Test(int a, int b) {
         x = a;
-        y = b;
+        y =  b;
     }
 
     friend int sum(Test t);
@@ -22,7 +22,7 @@ int sum(Test t) {
 int main() {
     Test t(5, 7);
 
-    cout << "Sum  = "
+    cout << "Sum = "
          << sum(t);
 
     return 0;
