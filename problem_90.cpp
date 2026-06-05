@@ -10,7 +10,7 @@ private:
 
 public:
     A() {
-        numA = 10;
+        numA= 10;
     }
 
     friend void add(A, B);
@@ -29,7 +29,7 @@ public:
 };
 
 void add(A a, B b) {
-    cout << "Sum ="
+    cout << "Sum  ="
          << a.numA + b.numB << endl;
 }
 
