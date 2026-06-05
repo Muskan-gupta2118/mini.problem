@@ -15,7 +15,7 @@ public:
 };
 
 void square(Calculator c) {
-    cout << "Square is  = "
+    cout << "Square is= "
          << c.num * c.num << endl;
 }
 
