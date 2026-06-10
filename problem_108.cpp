@@ -3,9 +3,9 @@
 using namespace std;
 int main(){
  ifstream file("new.txt");
- string line;
- while(getline(file,line)){
-    cout<<line<<endl;
+ string lines;
+ while(getline(file,lines)){
+    cout<<lines<<endl;
  }
  file.close();
  return 0;
