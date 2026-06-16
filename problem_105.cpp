@@ -5,7 +5,7 @@ using namespace std;
 class Shape {
 public:
     void show() {
-        cout << "Shape Class" << endl;
+        cout << "Shape  Class" << endl;
     }
 };
 
