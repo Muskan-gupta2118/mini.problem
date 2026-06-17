@@ -29,7 +29,7 @@ public:
 };
 
 void add(A a, B b) {
-    cout << "Sum  ="
+    cout << "Sum ="
          << a.numA + b.numB << endl;
 }
 
