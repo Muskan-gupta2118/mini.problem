@@ -15,7 +15,7 @@ public:
 };
 
 void show(Box b) {
-    cout << "Width is : "
+    cout << "Width is: "
          << b.width << endl;
 }
 
