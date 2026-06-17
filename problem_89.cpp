@@ -22,7 +22,7 @@ int sum(Test t) {
 int main() {
     Test t(5, 7);
 
-    cout << "Sum = "
+    cout << "Sum= "
          << sum(t);
 
     return 0;
