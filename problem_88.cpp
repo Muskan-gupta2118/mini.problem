@@ -17,7 +17,7 @@ public:
 
 void maximum(Number n) {
     if(n.a > n.b)
-        cout << "Maximum : "
+        cout << "Maximum: "
              << n.a << endl;
 
     else
