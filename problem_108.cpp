@@ -4,7 +4,7 @@ using namespace std;
 int main(){
  ifstream file("new.txt");
  string lines;
- while(getline(file,lines)){
+ while(getline(file,lines) ){
     cout<<lines<<endl;
  }
  file.close();
