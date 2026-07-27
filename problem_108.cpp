@@ -7,6 +7,6 @@ int main(){
  while(getline(file,lines) ){
     cout<<lines<<endl;
  }
- file.close();
+ file.close() ;
  return 0;
 }
