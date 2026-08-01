@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     ofstream file("data.txt");
 
-    file << "Welcome to C++ File Handling";
+    file << "Welcome to C++ file handling";
     file.close();
 
     cout << "Data written successfully.";
