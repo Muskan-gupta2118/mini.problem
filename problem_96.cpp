@@ -10,7 +10,7 @@ struct student{
 };
 int main(){
     student s;
-    s.name="Muskan";
+    s.name="Muskan gupta";
     s.rollno=138;
     s.marks=500;
     cout<<"the name of student is "<<s.name<<endl;
