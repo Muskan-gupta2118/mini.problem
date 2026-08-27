@@ -3,7 +3,7 @@ using namespace std;
 class juice{
     public:
     void taste(){
-        cout<<"we  have all the types of juices";
+        cout<<"we have all the types of juices";
     }
 };
 class tofee:public juice{
