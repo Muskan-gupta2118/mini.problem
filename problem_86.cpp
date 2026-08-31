@@ -6,6 +6,6 @@ ofstream file;
 file.open("demo.txt");
 file<<"hello world";
 file.close();
-cout<<"file created successfullyyy";
+cout<<"file created successfully";
 return 0;
 }
