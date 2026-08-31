@@ -1,3 +1,4 @@
+//friend function
 #include<iostream>
 using namespace std;
 class person{
@@ -10,7 +11,7 @@ class person{
     friend void show(person p);
 };
 void show(person p){
-        cout<<"the value of x is : "<<p.x;
+        cout<<"the value of x is "<<p.x;
     }
 int main(){
     person p;
