@@ -10,7 +10,7 @@ union student{
 int main(){
     student s;
     strcpy(s.name,"Muskan gupta");
-    cout<<"the mame of student is :"<<s.name<<endl;
+    cout<<"the mame of student is:"<<s.name<<endl;
     cout<<&s.name<<endl;
     //s.name="Muskan";
 
