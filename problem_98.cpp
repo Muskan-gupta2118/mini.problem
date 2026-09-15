@@ -9,6 +9,6 @@ int main() {
     file << "Welcome to C++ file handling";
     file.close();
 
-    cout << "Data written successfully.";
+    cout << "Data written successfully .";
     return 0;
 }
