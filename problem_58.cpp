@@ -10,6 +10,7 @@ protected:
 public:
     Employee(string n, int s) {
         name = n;
+        
         basicSalary = s;
     }
 };
