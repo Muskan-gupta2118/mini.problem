@@ -11,7 +11,7 @@ class grandparent{
 class parent:public grandparent{
     public:
     parent(){
-        cout<<"parent class"<<endl;
+        cout<<"parent class "<<endl;
     }
 };
 int main(){
