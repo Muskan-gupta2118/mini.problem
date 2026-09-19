@@ -6,7 +6,7 @@ class student{
     public:
     student  (int a){
         age = a;
-        cout<<"the age is "<<age<<endl;
+        cout<<"the age is:"<<age<<endl;
     }
     void display(){
         cout<<"hello";
