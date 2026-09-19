@@ -4,7 +4,7 @@ using namespace std;
 class student{
     public:
     student(){
-        cout<<"Constructor  is created"<<endl;
+        cout<<"Constructor is created"<<endl;
     }
 
 ~student(){
