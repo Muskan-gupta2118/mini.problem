@@ -15,7 +15,7 @@ public:
     friend void exchange(Swap &s);
 };
 
-void exchange(Swap &s) {
+void exchange(Swap & s) {
     int temp;
 
     temp = s.a;
