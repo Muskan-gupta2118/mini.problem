@@ -6,6 +6,7 @@ int main(){
  string lines;
  while(getline(file,lines) ){
     cout<<lines<<endl;
+    
  }
  file.close() ;
  return 0;
