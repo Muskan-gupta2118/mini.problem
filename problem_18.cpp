@@ -10,7 +10,7 @@ int main(){
     }
     else{
         switch(choice){
-            case 1:cout<<"your current balance is : "<<balance;
+            case 1:cout<<"your current balance is: "<<balance;
             break;
             case 2:
             cout<<"Enter deposit amount : "<<endl;
