@@ -9,7 +9,7 @@ int main(){
     }
     else{
         int num;
-        cout<<"Enter an integer : "<<endl;
+        cout<<"Enter an integer: "<<endl;
         cin>>num;
         switch(choice){
             case 1:cout<<"the square of number is : "<<num*num;
