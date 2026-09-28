@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Enter your choice :  1. checking balance    2. deposit     3.withdrawal      4.Exit"<<endl;
+    cout<<"Enter your choice :  1. checking balance   2. deposit     3.withdrawal      4.Exit"<<endl;
     int balance,depo_amount,with_amount,choice;
     balance = 200;
     cin>>choice;
