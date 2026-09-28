@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int choice;
-    cout<<"choose your choice : 1. square   2. cube     3.Exit"<<endl;
+    cout<<"choose your choice : 1. square   2. cube   3.Exit"<<endl;
     cin>>choice;
     if(choice==3){
         cout<<"exit";
