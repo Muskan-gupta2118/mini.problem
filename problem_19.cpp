@@ -5,6 +5,6 @@ int main(){
     cout<<"Enter a character"<<endl;
     cin>>ch;
     char lw = ch+32;
-    cout<<"the lowercase value of "<<ch<<" is :"<<lw;
+    cout<<"the lowercase value of "<<ch<<" is:"<<lw;
     return 0;
 }
